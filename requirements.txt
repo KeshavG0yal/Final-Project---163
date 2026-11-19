@@ -1,0 +1,8 @@
+pandas
+requests
+yfinance
+scipy
+matplotlib
+seaborn
+reportlab
+flake8
